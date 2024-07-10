@@ -1,0 +1,215 @@
+Vocabulary size: 50
+==============> Fold #1 <=================
+BOVW Built in 53.97285509109497 seconds!
+Training Histogram Built in 42.891327142715454 seconds!
+Model Trained in 0.007977008819580078 seconds!
+Fold #1 Score: 0.8333333333333334
+==============> Fold #2 <=================
+BOVW Built in 56.28118848800659 seconds!
+Training Histogram Built in 43.122825622558594 seconds!
+Model Trained in 0.0039899349212646484 seconds!
+Fold #2 Score: 0.6428571428571429
+==============> Fold #3 <=================
+BOVW Built in 48.509300231933594 seconds!
+Training Histogram Built in 39.1642644405365 seconds!
+Model Trained in 0.0049860477447509766 seconds!
+Fold #3 Score: 0.7619047619047619
+Average accuracy: 0.746031746031746
+
+Vocabulary size: 100
+==============> Fold #1 <=================
+BOVW Built in 82.9712028503418 seconds!
+Training Histogram Built in 45.35202145576477 seconds!
+Model Trained in 0.01894974708557129 seconds!
+Fold #1 Score: 0.9523809523809523
+==============> Fold #2 <=================
+BOVW Built in 85.25186729431152 seconds!
+Training Histogram Built in 48.005688428878784 seconds!
+Model Trained in 0.007996559143066406 seconds!
+Fold #2 Score: 0.8095238095238095
+==============> Fold #3 <=================
+BOVW Built in 83.74669909477234 seconds!
+Training Histogram Built in 49.77039289474487 seconds!
+Model Trained in 0.004990100860595703 seconds!
+Fold #3 Score: 0.7142857142857143
+Average accuracy: 0.8253968253968255
+
+Vocabulary size: 150
+==============> Fold #1 <=================
+BOVW Built in 106.83177733421326 seconds!
+Training Histogram Built in 54.15679430961609 seconds!
+Model Trained in 0.005986213684082031 seconds!
+Fold #1 Score: 0.9285714285714286
+==============> Fold #2 <=================
+BOVW Built in 106.68714475631714 seconds!
+Training Histogram Built in 52.22180461883545 seconds!
+Model Trained in 0.004987239837646484 seconds!
+Fold #2 Score: 0.9523809523809523
+==============> Fold #3 <=================
+BOVW Built in 100.77964091300964 seconds!
+Training Histogram Built in 52.63897681236267 seconds!
+Model Trained in 0.004007101058959961 seconds!
+Fold #3 Score: 0.8809523809523809
+Average accuracy: 0.9206349206349206
+
+Vocabulary size: 200
+==============> Fold #1 <=================
+BOVW Built in 129.0814926624298 seconds!
+Training Histogram Built in 60.96138644218445 seconds!
+Model Trained in 0.012439966201782227 seconds!
+Fold #1 Score: 0.9285714285714286
+==============> Fold #2 <=================
+BOVW Built in 136.37170577049255 seconds!
+Training Histogram Built in 60.979817152023315 seconds!
+Model Trained in 0.005002737045288086 seconds!
+Fold #2 Score: 0.8809523809523809
+==============> Fold #3 <=================
+BOVW Built in 128.48715329170227 seconds!
+Training Histogram Built in 58.303733348846436 seconds!
+Model Trained in 0.004988908767700195 seconds!
+Fold #3 Score: 0.9761904761904762
+Average accuracy: 0.9285714285714285
+
+Vocabulary size: 250
+==============> Fold #1 <=================
+BOVW Built in 157.01217555999756 seconds!
+Training Histogram Built in 61.37054371833801 seconds!
+Model Trained in 0.0069828033447265625 seconds!
+Fold #1 Score: 0.9761904761904762
+==============> Fold #2 <=================
+BOVW Built in 164.09640407562256 seconds!
+Training Histogram Built in 64.66623210906982 seconds!
+Model Trained in 0.006982088088989258 seconds!
+Fold #2 Score: 0.9523809523809523
+==============> Fold #3 <=================
+BOVW Built in 158.2731556892395 seconds!
+Training Histogram Built in 61.84363031387329 seconds!
+Model Trained in 0.008976221084594727 seconds!
+Fold #3 Score: 0.9761904761904762
+Average accuracy: 0.9682539682539683
+
+Vocabulary size: 300
+==============> Fold #1 <=================
+BOVW Built in 191.87702083587646 seconds!
+Training Histogram Built in 66.83474779129028 seconds!
+Model Trained in 0.009974479675292969 seconds!
+Fold #1 Score: 0.9285714285714286
+==============> Fold #2 <=================
+BOVW Built in 186.15907263755798 seconds!
+Training Histogram Built in 64.47786831855774 seconds!
+Model Trained in 0.0059854984283447266 seconds!
+Fold #2 Score: 0.9523809523809523
+==============> Fold #3 <=================
+BOVW Built in 189.9604697227478 seconds!
+Training Histogram Built in 68.93709516525269 seconds!
+Model Trained in 0.008975744247436523 seconds!
+Fold #3 Score: 0.9047619047619048
+Average accuracy: 0.9285714285714285
+
+Vocabulary size: 350
+==============> Fold #1 <=================
+BOVW Built in 209.08021068572998 seconds!
+Training Histogram Built in 67.54480743408203 seconds!
+Model Trained in 0.007979393005371094 seconds!
+Fold #1 Score: 0.9285714285714286
+==============> Fold #2 <=================
+BOVW Built in 209.3415138721466 seconds!
+Training Histogram Built in 72.27672219276428 seconds!
+Model Trained in 0.006982088088989258 seconds!
+Fold #2 Score: 0.9761904761904762
+==============> Fold #3 <=================
+BOVW Built in 208.85311460494995 seconds!
+Training Histogram Built in 74.3699746131897 seconds!
+Model Trained in 0.006980419158935547 seconds!
+Fold #3 Score: 0.9285714285714286
+Average accuracy: 0.9444444444444443
+
+Vocabulary size: 400
+==============> Fold #1 <=================
+BOVW Built in 218.63430047035217 seconds!
+Training Histogram Built in 75.35920691490173 seconds!
+Model Trained in 0.006982564926147461 seconds!
+Fold #1 Score: 0.9523809523809523
+==============> Fold #2 <=================
+BOVW Built in 230.38537573814392 seconds!
+Training Histogram Built in 78.04289054870605 seconds!
+Model Trained in 0.009973526000976562 seconds!
+Fold #2 Score: 1.0
+==============> Fold #3 <=================
+BOVW Built in 237.9586682319641 seconds!
+Training Histogram Built in 74.38314127922058 seconds!
+Model Trained in 0.007982730865478516 seconds!
+Fold #3 Score: 0.9047619047619048
+Average accuracy: 0.9523809523809524
+
+Vocabulary size: 450
+==============> Fold #1 <=================
+BOVW Built in 224.84259629249573 seconds!
+Training Histogram Built in 83.78532719612122 seconds!
+Model Trained in 0.008976459503173828 seconds!
+Fold #1 Score: 0.9761904761904762
+==============> Fold #2 <=================
+BOVW Built in 247.9841046333313 seconds!
+Training Histogram Built in 98.13960576057434 seconds!
+Model Trained in 0.012965202331542969 seconds!
+Fold #2 Score: 0.9047619047619048
+==============> Fold #3 <=================
+BOVW Built in 219.48676824569702 seconds!
+Training Histogram Built in 79.00413346290588 seconds!
+Model Trained in 0.006979942321777344 seconds!
+Fold #3 Score: 0.9523809523809523
+Average accuracy: 0.9444444444444443
+
+Vocabulary size: 500
+==============> Fold #1 <=================
+BOVW Built in 262.39988923072815 seconds!
+Training Histogram Built in 84.47912812232971 seconds!
+Model Trained in 0.009977102279663086 seconds!
+Fold #1 Score: 0.9523809523809523
+==============> Fold #2 <=================
+BOVW Built in 226.47601437568665 seconds!
+Training Histogram Built in 83.19996881484985 seconds!
+Model Trained in 0.009973764419555664 seconds!
+Fold #2 Score: 1.0
+==============> Fold #3 <=================
+BOVW Built in 243.96934509277344 seconds!
+Training Histogram Built in 85.72126340866089 seconds!
+Model Trained in 0.007980585098266602 seconds!
+Fold #3 Score: 1.0
+Average accuracy: 0.9841269841269842
+
+Vocabulary size: 550
+==============> Fold #1 <=================
+BOVW Built in 283.4927318096161 seconds!
+Training Histogram Built in 88.78938412666321 seconds!
+Model Trained in 0.009972810745239258 seconds!
+Fold #1 Score: 0.9285714285714286
+==============> Fold #2 <=================
+BOVW Built in 246.26839804649353 seconds!
+Training Histogram Built in 84.48072981834412 seconds!
+Model Trained in 0.01097249984741211 seconds!
+Fold #2 Score: 0.9285714285714286
+==============> Fold #3 <=================
+BOVW Built in 266.01603174209595 seconds!
+Training Histogram Built in 82.16296815872192 seconds!
+Model Trained in 0.008977890014648438 seconds!
+Fold #3 Score: 0.9761904761904762
+Average accuracy: 0.9444444444444445
+
+Vocabulary size: 600
+==============> Fold #1 <=================
+BOVW Built in 262.62228298187256 seconds!
+Training Histogram Built in 87.37699103355408 seconds!
+Model Trained in 0.008975505828857422 seconds!
+Fold #1 Score: 0.9761904761904762
+==============> Fold #2 <=================
+BOVW Built in 273.4099886417389 seconds!
+Training Histogram Built in 87.92700505256653 seconds!
+Model Trained in 0.010968923568725586 seconds!
+Fold #2 Score: 0.9761904761904762
+==============> Fold #3 <=================
+BOVW Built in 272.95965814590454 seconds!
+Training Histogram Built in 94.93721151351929 seconds!
+Model Trained in 0.011969566345214844 seconds!
+Fold #3 Score: 0.9285714285714286
+Average accuracy: 0.9603174603174603
