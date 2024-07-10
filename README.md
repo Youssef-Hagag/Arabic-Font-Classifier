@@ -36,8 +36,13 @@ for feature extraction and classification. These techniques included:
 • Rotating the image to the correct orientation for better readability.
 • Cropping the image to focus on the text area, excluding any extraneous elements
 
-<img width=100% src="images/preprocessing.jpg" alt="preprocessing"></img>
-- *Preprocessing Stages*
+<p align="center">
+  <img width=70% src="images/preprocessing.jpg" alt="preprocessing"></img>
+</p>
+<p align="center">
+  <em>Preprocessing Stages</em>
+</p>
+
 
 ## Feature Extraction Module
 We employed two main techniques for feature extraction: Scale-Invariant Feature Transform (SIFT) and Bag of Words (BoW).
@@ -56,8 +61,12 @@ simplifies the image while preserving important information about its content an
 spatial layout, making it suitable for tasks like image categorization and similarity
 matching.
 
-<img width=100% src="images/feature extraction.jpg" alt="feature extraction"></img>
-- *Feature Extraction Stages*
+<p align="center">
+ <img width=70% src="images/feature extraction.jpg" alt="feature extraction"></img>
+</p>
+<p align="center">
+  <em>Feature Extraction Stages</em>
+</p>
 
 ## Model Training Module
 We trained a Support Vector Machine (SVM) classifier using the features extracted from
@@ -74,8 +83,12 @@ spaces, and are effective in handling non-linearly separable data. The rbf kerne
 particular, is adept at capturing complex relationships in the data, making it ideal for
 our font recognition task.
 
-<img width=100% src="images/model training.jpg" alt="model training"></img>
-- *Training Model Stages*
+<p align="center">
+  <img width=70% src="images/model training.jpg" alt="model training"></img>
+</p>
+<p align="center">
+  <em>Training Model Stages</em>
+</p>
 
 ## Performance Analysis Module
 ### BOVW Vocabulary
@@ -84,8 +97,12 @@ error with accuracy checks. we used a range of sizes, trained and tested the mod
 each, and calculated accuracy. Visualizing the scores helps spot trends, leading to the
 optimal size for peak performance.
 
-<img width=100% src="images/hyper parameter selection.jpg" alt="hyper parameter selection"></img>
-- *Hyper Parameter Analysis*
+<p align="center">
+  <img width=70% src="images/hyper parameter selection.jpg" alt="hyper parameter selection"></img>
+</p>
+<p align="center">
+  <em>Hyper Parameter Analysis</em>
+</p>
 
 ### Cross Validation
 The performance of the SVM classifier was evaluated using cross-validation on the dataset.
@@ -96,8 +113,12 @@ set and the remaining parts as the training set.
 During cross-validation, we achieved an accuracy of approximately 99%. This high
 accuracy indicates the classifier’s effectiveness in accurately classifying Arabic text paragraphs into the four font types. The results demonstrate the robustness of our approach.
 
-<img width=100% src="images/cross validation.jpg" alt="cross validation"></img>
-- *Cross Validation*
+<p align="center">
+  <img width=70% src="images/cross validation.jpg" alt="cross validation"></img>
+</p>
+<p align="center">
+  <em>Cross Validation</em>
+</p>
 
 ## Conclusion
 In conclusion, our project successfully developed a system for classifying Arabic text paragraphs into four different fonts using SVM. We implemented preprocessing techniques to prepare the text images, extracted features using SIFT and Bag of Words, trained an SVM classifier, and evaluated its performance. With a high accuracy rate of approximately 99%, our system demonstrates the feasibility of automated font classification for Arabic text, with potential applications in font recognition and document analysis.
